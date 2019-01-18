@@ -1,5 +1,9 @@
 # Burger App with Node, Express and Handlebars
 
+![Buger App Screenshot](./public/assets/img/screenshot.png)
+
+[Deployed Site](https://infinite-scrubland-72549.herokuapp.com/)
+
 ### Overview
 
 * Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
